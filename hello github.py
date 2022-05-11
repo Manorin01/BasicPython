@@ -1,2 +1,3 @@
 print ('Hello Github')
-print ('Hello world')
+
+print('by Zoter')
